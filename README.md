@@ -1,0 +1,2 @@
+# Project-2-Ames-Housing-Data-and-Kaggle-Challenge
+We are a start-up aiming to set up a Sale Price recommendation tool where users can use to get a recommended Sale Price with just a few feature characteristics about their property which users would provide and upload onto our recommendation tool. Using our proprietary machine learning algorithm, the web application generates a quote estimate for their property Sale Price.
